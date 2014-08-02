@@ -16,3 +16,9 @@
 [submodule "bundle/jedi-vim"]
 	path = bundle/jedi-vim
 	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "bundle/salt-vim"]
+	path = bundle/salt-vim
+	url = https://github.com/saltstack/salt-vim.git
+[submodule "bundle/Vim-Jinja2-Syntax"]
+	path = bundle/Vim-Jinja2-Syntax
+	url = https://github.com/Glench/Vim-Jinja2-Syntax.git
