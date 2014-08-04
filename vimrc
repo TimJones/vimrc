@@ -7,4 +7,5 @@ set background=light
 colorscheme solarized
 
 " Extra settings
-set nu             " Line numbering
+set nu                                     " Line numbering
+let &colorcolumn=join(range(81,999),",")   " Highlight all columns after 80
