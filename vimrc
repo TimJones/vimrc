@@ -15,3 +15,4 @@ set shiftwidth=4    " Set indenting to 4 columns
 set softtabstop=4   " Set indenting to 4 columns
 set list            " Highlight non-printing chars
 set colorcolumn=81  " Highlight column 81
+set mouse=a         " Allow mouse interaction in terminal mode
