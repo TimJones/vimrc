@@ -25,3 +25,12 @@
 [submodule "bundle/vim-puppet"]
 	path = bundle/vim-puppet
 	url = git://github.com/rodjek/vim-puppet.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "bundle/vim-gitgutter"]
+	path = bundle/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "bundle/grep.vim"]
+	path = bundle/grep.vim
+	url = https://github.com/vim-scripts/grep.vim.git
