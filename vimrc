@@ -18,6 +18,7 @@ set softtabstop=4   " Set indenting to 4 columns
 set list            " Highlight non-printing chars
 set colorcolumn=81  " Highlight column 81
 set mouse=a         " Allow mouse interaction in terminal mode
+set ttymouse=xterm2 " Support xterm2 mouse codes
 
 " Airline settings
 let g:airline_enable_branch = 1
