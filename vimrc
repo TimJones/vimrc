@@ -21,7 +21,7 @@ set mouse=a         " Allow mouse interaction in terminal mode
 set ttymouse=xterm2 " Support xterm2 mouse codes
 
 " Airline settings
-let g:airline_enable_branch = 1
+let g:airline#extensions#branch#enabled = 1
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#left_sep = ' '
 let g:airline#extensions#tabline#left_alt_sep = '|'
